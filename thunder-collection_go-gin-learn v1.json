@@ -2,7 +2,7 @@
     "clientName": "Thunder Client",
     "collectionName": "go-gin-learn v1",
     "collectionId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
-    "dateExported": "2025-02-16T15:57:07.356Z",
+    "dateExported": "2025-02-16T18:43:05.811Z",
     "version": "1.2",
     "folders": [],
     "requests": [
@@ -27,7 +27,7 @@
             "method": "GET",
             "sortNum": 20000,
             "created": "2025-02-16T15:48:15.676Z",
-            "modified": "2025-02-16T15:48:36.387Z",
+            "modified": "2025-02-16T17:34:54.051Z",
             "headers": []
         },
         {
@@ -39,11 +39,11 @@
             "method": "POST",
             "sortNum": 30000,
             "created": "2025-02-16T15:49:30.532Z",
-            "modified": "2025-02-16T15:51:10.387Z",
+            "modified": "2025-02-16T17:46:59.395Z",
             "headers": [],
             "body": {
                 "type": "json",
-                "raw": "{\n  \"name\": \"Advanced Avocado\"\n}",
+                "raw": "{\n    \"first_name\": \"Energetic\",\n    \"last_name\": \"Elephant-Apple\",\n    \"email\": \"e.elephant-apple@tropika.com\",\n    \"ip_address\": \"192.168.1.5\"\n  }",
                 "form": []
             }
         },
@@ -56,11 +56,11 @@
             "method": "PUT",
             "sortNum": 40000,
             "created": "2025-02-16T15:51:58.156Z",
-            "modified": "2025-02-16T15:52:41.714Z",
+            "modified": "2025-02-16T18:30:42.536Z",
             "headers": [],
             "body": {
                 "type": "json",
-                "raw": "{\n  \"name\": \"Benign Banana\"\n}",
+                "raw": "{\n  \"first_name\": \"Advanced\",\n  \"last_name\": \"Avocado\",\n  \"email\": \"a.avocado@tropika.com\",\n  \"ip_address\": \"192.168.1.101\"\n}",
                 "form": []
             }
         },
@@ -69,11 +69,11 @@
             "colId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
             "containerId": "",
             "name": "del>person/:id",
-            "url": "http://localhost:8080/api/v1/person/1",
+            "url": "http://localhost:8080/api/v1/person/5",
             "method": "DELETE",
             "sortNum": 50000,
             "created": "2025-02-16T15:53:13.706Z",
-            "modified": "2025-02-16T15:53:27.233Z",
+            "modified": "2025-02-16T18:36:39.759Z",
             "headers": []
         },
         {
@@ -89,5 +89,5 @@
             "headers": []
         }
     ],
-    "ref": "s298pJ_RGbxGaD7KuA0gN5mfSxwy6DGpAu3V2lMC3-MG6hALzWxVaptEpRpssFhYou6kysUS6pG2zE4mZOhgPA"
+    "ref": "s298pJ_RGbxGaD7KuA0gN5mfSxwy6DGpAu3V2lMC3-M3nbtc3sjAsTtGKrjQopNtcOYTtvpRUnGUrluBcnl4pw"
 }
