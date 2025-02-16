@@ -1,0 +1,93 @@
+{
+    "clientName": "Thunder Client",
+    "collectionName": "go-gin-learn v1",
+    "collectionId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
+    "dateExported": "2025-02-16T15:57:07.356Z",
+    "version": "1.2",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "b036ae35-7afa-4881-8a0e-48eb8fee8b93",
+            "colId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
+            "containerId": "",
+            "name": "get>person",
+            "url": "http://localhost:8080/api/v1/person",
+            "method": "GET",
+            "sortNum": 10000,
+            "created": "2025-02-16T15:47:13.240Z",
+            "modified": "2025-02-16T15:47:13.240Z",
+            "headers": []
+        },
+        {
+            "_id": "51bd7632-0777-4dd8-987a-f188cdd7ca7e",
+            "colId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
+            "containerId": "",
+            "name": "get>person/:id",
+            "url": "http://localhost:8080/api/v1/person/1",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2025-02-16T15:48:15.676Z",
+            "modified": "2025-02-16T15:48:36.387Z",
+            "headers": []
+        },
+        {
+            "_id": "78dab250-28ea-40f6-963a-ea3ad44c83db",
+            "colId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
+            "containerId": "",
+            "name": "post>person",
+            "url": "http://localhost:8080/api/v1/person",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2025-02-16T15:49:30.532Z",
+            "modified": "2025-02-16T15:51:10.387Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Advanced Avocado\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "379a7780-d60a-4f09-9486-4aaab2c4ba02",
+            "colId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
+            "containerId": "",
+            "name": "put>person/:id",
+            "url": "http://localhost:8080/api/v1/person/1",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2025-02-16T15:51:58.156Z",
+            "modified": "2025-02-16T15:52:41.714Z",
+            "headers": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"name\": \"Benign Banana\"\n}",
+                "form": []
+            }
+        },
+        {
+            "_id": "93bad50c-66ee-4fe5-86bb-75f35d0361c9",
+            "colId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
+            "containerId": "",
+            "name": "del>person/:id",
+            "url": "http://localhost:8080/api/v1/person/1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2025-02-16T15:53:13.706Z",
+            "modified": "2025-02-16T15:53:27.233Z",
+            "headers": []
+        },
+        {
+            "_id": "3bec122d-6a61-4062-8767-7a0fda927195",
+            "colId": "cdd9fb21-1be0-4709-9beb-d2d65a0b0fd4",
+            "containerId": "",
+            "name": "opt>person",
+            "url": "http://localhost:8080/api/v1/person",
+            "method": "OPTIONS",
+            "sortNum": 60000,
+            "created": "2025-02-16T15:54:26.114Z",
+            "modified": "2025-02-16T15:54:48.449Z",
+            "headers": []
+        }
+    ],
+    "ref": "s298pJ_RGbxGaD7KuA0gN5mfSxwy6DGpAu3V2lMC3-MG6hALzWxVaptEpRpssFhYou6kysUS6pG2zE4mZOhgPA"
+}
